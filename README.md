@@ -20,12 +20,12 @@ travailler pour faire plus de profit.
 
 
   
-## 🔗 Data
+## 🔗 Data :
 [les données utilisées dans ce projet](https://bit.ly/3i4rbWl)
 
 
   
-## 🛠 Skills
+## 🛠 Skills :
 Exploratory analysis , Python...
 
   
